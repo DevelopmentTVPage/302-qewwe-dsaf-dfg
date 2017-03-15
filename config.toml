@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Stage test"
+baseURL = "https:\/\/qewwe.dsaf.dfg"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
